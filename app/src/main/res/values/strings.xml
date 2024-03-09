@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AnotherBottomSheet</string>
+    <string name="bottom_sheet_dialog_example">Bottom Sheet Dialog Example</string>
+    <string name="open_bottom_sheet">Open Bottom Sheet</string>
+    <string name="bottom_sheet_dialog">Bottom Sheet Dialog</string>
+    <string name="dismiss_dialog">Dismiss Dialog</string>
+    <string name="bottom_sheet_example">Bottom Sheet Example</string>
+    <string name="android_sample_code">Android Sample Code</string>
+</resources>
